@@ -9,4 +9,5 @@ Dentro de este repositorio estarán contenidas distintas secciones con heramient
 
 Las secciones son las siguientes:
   - Manejo de APIs https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Manejo-de-APIs
+  - Scripting en PowerShell https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Scripting-en-PowerShell
   - 
