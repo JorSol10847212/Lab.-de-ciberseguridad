@@ -1,0 +1,8 @@
+Los script contenidos aquí nos sirven para el manejo de las APIs por medio de python
+
+Las APIs utilizadas son https://pokeapi.co y https://httpbin.org
+
+Son 3 scripts
+  En el primero (Pokemon1) se hace un simple request a la API pokeapi y se van imprimiendo los resultados
+  En el segundo (Pokemon2) se hace el mismo request a la API pokeapi, pero a medida que se van listando los nombres se va preguntando si se continúa el listado
+  En el tercero (Posteo) se hace una petición con request a la API httpbin, para generar una petición post.
