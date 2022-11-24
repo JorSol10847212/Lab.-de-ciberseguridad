@@ -13,7 +13,7 @@ Las secciones son las siguientes:
   - Scrpting in Bash
   - Encoding & Decoding https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Encoding-%26-Decoding
   - Webscraping https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Webscraping
-  - Nmap 
+  - Nmap https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Nmap
   - FTP 
   - Escáner de Puertos 
   - Envió de Correos 
