@@ -1,0 +1,6 @@
+Los scripts aquí contenidos son sencillos, y sirven como refuerzo de los conocimientos acerca de PowerShell
+
+Se dividen en 3:
+  - En el primero (scan_alive1) se hacen varios escaneos para determinar la información de la red
+  - En el segundo (scan_alive2) se hace un escaneo de los equipos activos de la red
+  - En el tercero (scan_portv1) se hace se manera similar al segundo, solo que en este se puede escanear a un equipo en especifico
