@@ -1,0 +1,6 @@
+Los scripts aquí contenidos sirven como ejercicio de practica en los temas de Encoding y Decoding, utilizando Python y Powershell
+
+Los scripts son 3:
+  - El primero (encode_imgur) se descarga una imagen y se codifica
+  - En el segundo (cypher) se importa fernet desde cryptography y, con un mensaje especifico, se cifra y decifra
+  - En el tercero (codipo) se muestra un ejemplo de codificación/decodificación Base64, usando un archivo aparte (secret.txt)
