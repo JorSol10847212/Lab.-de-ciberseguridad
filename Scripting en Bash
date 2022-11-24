@@ -1,0 +1,9 @@
+Los scripts aquí contenidos nos sirven para dar una introducción a los scripts en el sistema operativo Linux en Bash
+En tales scripts se ejecutan herramientas sobre:
+  Permisos y formas de ejecución de scripts.
+  Manejo de variables de ambiente.
+  Lectura de entradas.
+  Combinación de comandos.
+  
+Son 6 scripts
+  - El primero (welcome) 
