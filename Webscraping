@@ -1,0 +1,7 @@
+Aquí están contenidos 2 scripts en los cuales se hace uso de Webscraping y analisis de metadata que ejecutarán 2 tareas específicas
+  Obtener del sitio de citas y serán almacenadas dentro de un archivo en forma csv.
+  Hacer un scraping de un sitio específico de fake jobs
+  
+Son 2 scripts
+  - En el primero (scrape_quotes) utilizando request y beautifulsoup se saca el html de la pagina y con eso se van buscando las citas y los autores
+  - En el segundo (scrap12) se hace lo mismo que en el primero, sin embargo en este se busca más profundamente la información y solo se imprime
