@@ -12,9 +12,9 @@ Las secciones son las siguientes:
   - Scripting en PowerShell https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Scripting-en-PowerShell
   - Scrpting in Bash
   - Encoding & Decoding https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Encoding-%26-Decoding
-  - Webscraping
-  - Nmap
-  - FTP
-  - Escáner de Puertos
-  - Envió de Correos
-  - Automatización de Tareas
+  - Webscraping https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Webscraping
+  - Nmap 
+  - FTP 
+  - Escáner de Puertos 
+  - Envió de Correos 
+  - Automatización de Tareas 
