@@ -16,5 +16,5 @@ Las secciones son las siguientes:
   - Nmap https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Nmap
   - FTP https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/FTP
   - Escáner de Puertos https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Escáner-de-Puertos
-  - Envió de Correos 
+  - Envío de Correos https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Envio-de-Correos
   - Automatización de Tareas 
