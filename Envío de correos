@@ -1,0 +1,4 @@
+El escript aquí contenido sirve para enviar un correo
+ - Contiene un mensaje en html (si se quiere se puede modificar)
+ - Pide le correo y contraseña de quien va a enviar el correo
+ - Incluye el correo a quien se va a enviar generico (modificable)
