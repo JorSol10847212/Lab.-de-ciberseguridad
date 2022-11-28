@@ -1,0 +1,10 @@
+Los scripts aquí contenidos nos ayudan en el tema de la automatización
+
+1. El primero (send_sysinfo):
+  - Obtiene la información de tu equipo
+  - La guarda en un csv (deberás modificar la ruta de donde crea el documento)
+  - La envía por correo (deberás modificar tu correo y contraseña, al igual que el del que recibe el correo)
+  
+2. El segundo (program) es la automatización del primero:
+  - Se envía a cierta hora (la cual tu puedes definir)
+  - Se le coloca nombre al taks y a la ruta
