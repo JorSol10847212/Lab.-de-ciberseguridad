@@ -5,7 +5,7 @@ Datos personales:
   Jorge Andrés Solís Sánchez
   1850014
 
-Dentro de este repositorio estarán contenidas distintas secciones con heramientas para ciberseguridad
+Dentro de este repositorio estarán contenidas distintas secciones con heramientas para ciberseguridad, con las que alguien que este empezando a aprender de programación podrá adquirir más conocimientos especialmente en el ambito de la ciberseguridad, usando python, powershell y bash.
 
 Las secciones son las siguientes:
   - Manejo de APIs https://github.com/JorSol10847212/Lab.-de-ciberseguridad/tree/Manejo-de-APIs
