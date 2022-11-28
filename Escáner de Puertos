@@ -1,0 +1,7 @@
+Los scripts aquí contenidos son ejercicios en donde se desarollan algunas piezas de software en Python para el escaneo de puertos
+
+Son 4 scripts:
+  - El primero (scan_port1) hace un escaneo de puertos, pidiendo como parametro la ip y el rango de puertos
+  - El segundo (scan_port2) hace el escaneo de algunos puertos especificos en la ip 192.168.0.{1-225}
+  - El tercero (scan_port3) hace lo mismo que el primero, solo que usando threading para tener multiples hilos
+  - El cuarto (Menú) es un menú con 4 opciones de escaneo: UDP, completo, de red con ping o detección de sistema operativo
