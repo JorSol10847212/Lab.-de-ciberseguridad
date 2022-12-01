@@ -1,0 +1,8 @@
+El script aquí contenido es un menú con el cual se pueden hacer distintos tipos de escaneos con nmap
+
+El script tiene 5 opciones
+  - Escaneo de red
+  - Escaneo individual
+  - Escaneo udp
+  - Escaneo de script
+  - Salir
